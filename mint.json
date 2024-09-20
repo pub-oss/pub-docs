@@ -79,6 +79,12 @@
       ]
     },
     {
+      "group": "Lang Documentation",
+      "pages": [
+        "lang/introduction"
+      ]
+    },
+    {
       "group": "Endpoint Examples",
       "pages": [
         "api-reference/endpoint/get",
